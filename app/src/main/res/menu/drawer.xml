@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:id="@+id/group1" android:checkableBehavior="single">
+        <item
+            android:id="@+id/drawer_song"
+            android:icon="@drawable/ic_song"
+            android:title="@string/song" />
+        <item
+            android:id="@+id/drawer_album"
+            android:icon="@drawable/ic_album"
+            android:title="@string/album" />
+        <item
+            android:id="@+id/drawer_artist"
+            android:icon="@drawable/ic_artist"
+            android:title="@string/artist" />
+    </group>
+
+    <group android:id="@+id/group2" android:checkableBehavior="single">
+        <item
+            android:id="@+id/setting"
+            android:icon="@drawable/ic_setting"
+            android:title="@string/setting" />
+        <item
+            android:id="@+id/info"
+            android:icon="@drawable/ic_information"
+            android:title="@string/info" />
+    </group>
+</menu>

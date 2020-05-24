@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mp3 Player</string>
+
+    <string name="song">Bài hát</string>
+    <string name="album">Album</string>
+    <string name="artist">Ca sĩ</string>
+
+    <string name="tracks">Bài hát: </string>
+    <string name="albums">Album: </string>
+
+    <string name="search">Tìm kiếm</string>
+
+    <string name="drawer_open">Open drawer</string>
+    <string name="drawer_close">Close drawer</string>
+
+    <string name="other">Khác</string>
+    <string name="setting">Cài đặt</string>
+    <string name="info">Giới thiệu</string>
+</resources>
